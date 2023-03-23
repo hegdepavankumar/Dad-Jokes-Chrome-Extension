@@ -23,7 +23,7 @@ To download the extension, run the following command in your __Command Prompt/Te
 
 Or alternatively, you can [__Download a ZIP__](https://github.com/hegdepavankumar/Dad-Jokes-Chrome-Extension/archive/refs/heads/master.zip) and then unpack the ZIP folder.
 
-Once you have the extension code:
+## Once you have the extension code:
 
 * Open __Google Chrome__
 * Click on the 3 dots at top right corner
@@ -36,7 +36,7 @@ Once you have the extension code:
 * navigate to the unpacked ZIP files / cloned repo and upload.
 * And you're done! 
 
-![dad_jokes_extension](https://user-images.githubusercontent.com/26281852/136672174-a5239bd4-dab0-49c8-99ee-8f66b8511c75.png)
+[Click Here](https://user-images.githubusercontent.com/26281852/136672174-a5239bd4-dab0-49c8-99ee-8f66b8511c75.png)
 
-The Jokes are all yours now! Enjoy:thumbsup:
+-- The Jokes are all yours now! Enjoy:thumbsup:--
 
