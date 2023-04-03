@@ -18,10 +18,9 @@ Simple Chrome Extension that shows you random jokes from internet that makes you
 
 To download the extension, run the following command in your __Command Prompt/Terminal__:
 
+Or alternatively, you can 
 
-```
-
-Or alternatively, you can [__Download a ZIP__](https://github.com/hegdepavankumar/Dad-Jokes-Chrome-Extension/archive/refs/heads/master.zip) and then unpack the ZIP folder.
+[Download a ZIP](https://github.com/hegdepavankumar/Dad-Jokes-Chrome Extension/archive/refs/heads/master.zip) and then unpack the ZIP folder.
 
 ## Once you have the extension code:
 
