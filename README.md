@@ -1,9 +1,9 @@
 # Dad-Jokes-Chrome-Extension-master
 
 
-![GitHub](https://img.shields.io/github/license/imhegde/Dad-Jokes-Chrome-Extension?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Dad-Jokes-Chrome-Extension?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Dad-Jokes-Chrome-Extension?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Dad-Jokes-Chrome-Extension?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Dad-Jokes-Chrome-Extension?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Dad-Jokes-Chrome-Extension?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Dad-Jokes-Chrome-Extension.svg?cache=remove)
 
 Dad-Jokes-Chrome-Extension You click on this Google Chrome extension to get a random Joke every time 😂
@@ -20,7 +20,7 @@ To download the extension, run the following command in your __Command Prompt/Te
 
 Or alternatively, you can 
 
-[Download a ZIP](https://github.com/imhegde/Dad-Jokes-Chrome Extension/archive/refs/heads/master.zip) and then unpack the ZIP folder.
+[Download a ZIP](https://github.com/hegdepavankumar/Dad-Jokes-Chrome Extension/archive/refs/heads/master.zip) and then unpack the ZIP folder.
 
 ## Once you have the extension code:
 
